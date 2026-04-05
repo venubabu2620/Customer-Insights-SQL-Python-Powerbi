@@ -114,12 +114,10 @@ The goal is to extract actionable insights into customer purchasing patterns, di
 
 ## 📊 Dashboard Preview
 
-*(Add your Power BI screenshot here)*
+<img width="1035" height="596" alt="image" src="https://github.com/user-attachments/assets/0c607984-b10a-46fa-99fb-facfc165cbb0" />
+
 
 ```md
-<img width="1035" height="596" alt="image" src="https://github.com/user-attachments/assets/0366e890-7e1c-42d0-9b8a-ebf1767a2465" />
-
-```
 
 ---
 
